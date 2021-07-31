@@ -23,15 +23,15 @@
       <i>systemd</i> init system and middleware suite.
     </p>
 
-    <p>The purpose of the FreeInit.org initiative is not to build an alternative to the init system part of systemd; it
-      is instead to act in support of projects aiming to build alternatives to systemd more broadly, now that systemd
-      means much more than an init system.</p>
+    <p>FreeInit.org is not an init system itself; it is a movement in support of projects aiming to build alternatives
+      to systemd's init system and other systemd components.</p>
 
     <p>Our initial goals are:
     <ol>
       <li>
         <b>Creating a list of systemd components</b>, the FOSS alternatives to these, and the status and
         systemd-compatibility of these alternatives.
+        <br />It will serve as a helpful resource both to users and interested developers.
       </li>
       <li>
         <b>Creating a <i>libsystemd</i> implementation</b> providing the various utility libraries (e.g.
@@ -41,8 +41,8 @@
       </li>
       <li>
         <b>Promoting the uptake of seatd/libseat</b>, respectively a seat-management daemon and a library
-        providing an
-        abstract interface backed by either seatd or systemd-logind.
+        providing an abstract interface backed by either seatd or systemd-logind/elogind.
+        <br />Direct dependency on the systemd-logind interface would thereby be minimised.
       </li>
       <li>
         <b>Building solidarity</b> between those who think free software is more than just a buzzword.
@@ -50,10 +50,18 @@
     </ol>
     </p>
 
-
-    <p>If you feel you can add to our project, please visit <a href=https://github.com/FreeInit/freeinit.org>our GitHub
+    <p>The FreeInit.org initiative is young and any support is welcomed. If you are interested, please visit <a
+        href=https://github.com/FreeInit/freeinit.org>our GitHub
         repository</a> and create an issue.</p>
 
+    <p>Our members projects include:
+    <ul>
+      <li><a href="https://github.com/InitWare/InitWare">InitWare</a>: A fork of systemd's init system aiming for
+        modularity, portability to BSD, and reduced project scope.</li>
+      <li><a href="https://github.com/sharpsuite/sharpinit">SharpInit</a>: A modular, high-performance init daemon in
+        C#.</li>
+    </ul>
+    </p>
 
   </div>
 
