@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logotype.svg"
+   inkscape:export-xdpi="508"
+   inkscape:export-ydpi="508"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.771108"
+     inkscape:cx="137.67056"
+     inkscape:cy="21.110689"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2812"
+     inkscape:window-y="153"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text1046"
+     inkscape:lockguides="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="63.111788,-22.508527"
+       orientation="1,0"
+       id="guide42672" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="freeinit"
+       id="text1046"
+       style="font-size:10.5833px;line-height:1.25;font-family:'SF Pro';-inkscape-font-specification:'SF Pro';stroke-width:0.264583">
+      <rect
+         style="fill:#201a26;fill-opacity:1;stroke-width:0.105996"
+         id="rect40753"
+         width="32"
+         height="32"
+         x="0"
+         y="-1.7763568e-15" />
+      <g
+         id="g40717"
+         transform="matrix(1.0707128,0,0,1.0420763,-39.474812,-98.146793)">
+        <path
+           d="m 45.111456,117.98577 h 1.15443 v -6.90004 h -1.15443 z"
+           style="font-weight:100;-inkscape-font-specification:'SF Pro Thin';fill:#30d475;fill-opacity:1;stroke-width:0.339695"
+           id="path11907"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           d="m 47.838301,117.98577 h 1.15443 v -4.0604 q 0,-0.59049 0.218944,-1.02839 0.225578,-0.43788 0.630292,-0.67672 0.404714,-0.24549 0.948757,-0.24549 0.796158,0 1.187603,0.45116 0.39808,0.44452 0.39808,1.28712 v 4.27272 h 1.15443 v -4.4784 q 0,-1.18096 -0.630293,-1.86433 -0.623658,-0.69 -1.758184,-0.69 -0.782889,0 -1.313662,0.31845 -0.530772,0.31183 -0.809429,0.79617 h -0.02654 v -0.98193 h -1.15443 z"
+           style="font-weight:100;-inkscape-font-specification:'SF Pro Thin';fill:#30d475;fill-opacity:1;stroke-width:0.339695"
+           id="path11909" />
+        <path
+           d="m 55.070076,117.98577 h 1.154431 v -6.90004 h -1.154431 z"
+           style="font-weight:100;-inkscape-font-specification:'SF Pro Thin';fill:#30d475;fill-opacity:1;stroke-width:0.339695"
+           id="path11911"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           d="m 60.039435,118.11847 c 0.114998,0 0.227791,-0.006 0.338368,-0.0199 0.114998,-0.009 0.207886,-0.0177 0.278655,-0.0266 v -0.93548 c -0.04865,0.004 -0.106152,0.0103 -0.1725,0.0199 -0.06192,0.004 -0.128274,0.006 -0.19904,0.006 -0.309618,0 -0.544042,-0.0641 -0.703274,-0.1924 -0.159231,-0.13269 -0.238848,-0.3826 -0.238848,-0.74973 v -4.17983 h 1.313662 v -0.95539 h -1.313662 v 0 h -1.194238 v 0 H 57.14009 v 0.95539 h 1.008468 v 4.18647 c 0,0.65905 0.15702,1.13895 0.471061,1.43973 0.31404,0.30077 0.787313,0.45116 1.419816,0.45116 z"
+           style="font-weight:100;-inkscape-font-specification:'SF Pro Thin';fill:#30d475;fill-opacity:1;stroke-width:0.339695"
+           id="path11913"
+           sodipodi:nodetypes="cccccscsccccccccccsscc" />
+        <text
+           xml:space="preserve"
+           style="font-size:14.1111px;line-height:1.25;font-family:Pristina;-inkscape-font-specification:Pristina;fill:#30d475;fill-opacity:1;stroke-width:0.0700042"
+           x="42.466969"
+           y="110.033"
+           id="text15707"><tspan
+             sodipodi:role="line"
+             id="tspan15705"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Pristina;-inkscape-font-specification:Pristina;fill:#30d475;fill-opacity:1;stroke-width:0.0700042"
+             x="42.466969"
+             y="110.033">free</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
