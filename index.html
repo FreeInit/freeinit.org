@@ -19,16 +19,37 @@
 
     <img src="logotype.svg" class="page-logo" width=240px>
 
-    <p>FreeInit.org is the community initiative for free and open-source alternatives to the X Desktop Group's
+    <p>FreeInit.org is the community initiative in support of free and open-source alternatives to the X Desktop Group's
       <i>systemd</i> init system and middleware suite.
     </p>
 
-    <p>Our first goal is to create a listing of the software and libraries provided by systemd, enumerating the free
-      and open-source alternatives to each of these, with notes on the status of these projects and the level of
-      compatibility with any systemd interfaces.</p>
+    <p>The purpose of the FreeInit.org initiative is not to build an alternative to the init system part of systemd; it
+      is instead to act in support of projects aiming to build alternatives to systemd more broadly, now that systemd
+      means much more than an init system.</p>
 
-    <p>We hope to facilitate the cooperation and coordination of all projects aiming at providing free alternatives to
-      systemd components.</p>
+    <p>Our initial goals are:
+    <ol>
+      <li>
+        <b>Creating a list of systemd components</b>, the FOSS alternatives to these, and the status and
+        systemd-compatibility of these alternatives.
+      </li>
+      <li>
+        <b>Creating a <i>libsystemd</i> implementation</b> providing the various utility libraries (e.g.
+        libsystemd-bus), and
+        with init, journal, and login management functionality abstracted so that it may work with alternatives.
+        <br />This will unify the disparate <i>libsystemd</i> implementations of e.g. Basu and elogind.
+      </li>
+      <li>
+        <b>Promoting the uptake of seatd/libseat</b>, respectively a seat-management daemon and a library
+        providing an
+        abstract interface backed by either seatd or systemd-logind.
+      </li>
+      <li>
+        <b>Building solidarity</b> between those who think free software is more than just a buzzword.
+      </li>
+    </ol>
+    </p>
+
 
     <p>If you feel you can add to our project, please visit <a href=https://github.com/FreeInit/freeinit.org>our GitHub
         repository</a> and create an issue.</p>
